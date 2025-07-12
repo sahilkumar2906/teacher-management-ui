@@ -41,3 +41,43 @@ npm install
 
 # Run the dev server
 npm run dev
+ Deployment
+This project can be deployed easily using Vercel:
+
+Go it https://v
+
+Import you
+
+Click Deploy
+
+🙌 Author
+Sahil Kumar
+GitHub Profile
+
+📄 License
+This project is licensed under the MIT License.
+
+yamml
+
+Copy
+
+Edit
+
+</details>
+
+---
+
+### 🔹 **Step 4: Save the File**
+
+Press `Ctrl + S` or go to File → Save.
+
+---
+
+### 🔹 **Step 5: Push to GitHub**
+
+Now push the changes:
+
+```bash
+git add README.md
+git commit -m "Add project README"
+git push
